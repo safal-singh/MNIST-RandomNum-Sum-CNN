@@ -22,4 +22,4 @@ Optimizer - SGD with learning rate = 0.01, momentum = 0.9
 The total output is considered to be correct only if both the outputs are correct. Then training accuracy is calculated using 
 Training Accuracy = (# CORRECT OUTPUTS / # TRAINING IMAGES) * 100
 
-Using this criterion, the highest training accuracy was found to be 97.9%.
+Using this criterion, the highest training accuracy was found to be 97.9% for SGD optimizer, NLL loss. Highest accuracies for Adam, Cross entropy loss and Adam, NLL loss was found to be 96.68% and 96.45% respectively.
