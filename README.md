@@ -1,2 +1,2 @@
 # MNIST-Sum-CNN
-CNN to predict MNIST data as well as sum of a random integer with MNIST output
+Objective - Build a neural network that takes 3 inputs - an image from MNIST dataset, a random number between 0 to 9, to calculate 2 outputs 
