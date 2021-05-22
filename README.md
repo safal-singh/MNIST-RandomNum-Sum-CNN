@@ -1,4 +1,4 @@
-# MNIST-Sum-CNN
+# MNIST-RandomNum-Sum-CNN
 Objective - Build a neural network that takes 2 inputs - an image from MNIST dataset, a random number between 0 to 9, to calculate 2 outputs - the "number" represented in MNIST image and sum of this number with the random number provided as input to the network.
 
 Inputs - 
